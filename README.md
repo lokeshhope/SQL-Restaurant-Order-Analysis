@@ -1,6 +1,5 @@
-#                                                                                                       SQL-Restaurant-Order-Analysis
-
-Restaurant Order Analysis
+#                                                                                                       SQL PROJECT
+#                                                                                                Restaurant Order Analysis
 By
 L o k e s h. N
 
