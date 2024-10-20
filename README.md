@@ -1,7 +1,7 @@
 #                                                                                                       SQL PROJECT
 #                                                                                                Restaurant Order Analysis
 
-###Defining the Problem:
+Defining the Problem:
 
 In the hospitality industry, order and sales analysis is vital for long-term success as it significantly impacts a business's bottom line. When restaurants lack insights into which menu items are performing well and which ones receive less interest, it directly affects brand value, sales, and potential revenue. Additionally, introducing new cuisines can be costly and may fail if there is no clear understanding of customer preferences.
 
