@@ -7,6 +7,3 @@ In the hospitality industry, order and sales analysis is vital for long-term suc
 Therefore, it is often more cost-effective for restaurants to focus on retaining existing customers by enhancing and improving what they already like. To achieve this, many large restaurants are now prioritizing analysing on order datas, using advanced models to make informed, data-driven decisions that optimize menu offerings and overall customer satisfaction.
 
 The objective is to obtain a data-driven solution that will allow us to increase order count and, as a consequence, to increase customer satisfaction and oranization revenue.
-
-Dataset:
-The data set contains two tables, Menu table with four columns and 32 rows indicate the characteristics of the menus and Order table has 12234 rows and 5 columns.
